@@ -1,0 +1,24 @@
+.container{
+    max-width: 350px;
+    padding: 15px;
+    margin: auto;
+    box-shadow: 5px 2px 5px 2px rgb(0 0 0/ 0.6);
+}
+.container h1{
+    margin-bottom: 10%;
+    margin-top: 10%;
+    text-align: center;
+}
+.boxElement{
+    display: flex;
+    flex-direction: column;
+}
+
+.boxElement Typography{
+    align-items: center;
+}
+
+.boxElement Button{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}

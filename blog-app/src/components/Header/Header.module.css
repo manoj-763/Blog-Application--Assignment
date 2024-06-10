@@ -1,0 +1,12 @@
+
+.headerContaier{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar{
+    display: flex;
+    gap: 45%;
+    margin-right: 10%;
+    
+}
